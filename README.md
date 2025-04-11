@@ -72,7 +72,7 @@ FUEL-DETECTION/
 - ESP32 & necessary sensors  
 - MQTT broker (like Mosquitto)
 
-### 2️⃣ Backend Setup
+### 2️⃣ Backend Setup of this Project
 
 ```bash
 # Create a virtual environment
@@ -89,7 +89,7 @@ python app.py
 
 ---
 
-## 📸 Snapshot
+## 📸 Images
 ### Dashboard
 ![DashBoard](https://github.com/user-attachments/assets/19c90858-68fd-4bfe-b676-01eabb86a70b)
 
@@ -106,7 +106,7 @@ python app.py
 ---
 
 
-## 🔭 Future Scope
+## 🔭 Future Scope for this Project
 
 - Multilingual Feedback Analysis using Indian regional languages.  
 - GPS Tracking Integration for delivery vehicle tracking.  
